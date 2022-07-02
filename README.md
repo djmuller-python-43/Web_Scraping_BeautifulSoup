@@ -1,2 +1,2 @@
-# beginner_repo
-This is all my beginner projects, that I developed as a beginner in Python 
+# Web Scraping using BeautifulSoup
+This is all my web scraping projects done so far using BeautifulSoup 
